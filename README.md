@@ -3,3 +3,13 @@ ND.
 
 # Netflix-Chill-
 This is for our Netflix and Chill app
+
+
+
+UPDATE
+======
+
+
+
+I just commited the files for everyone's veiwing pleasure.  
+
