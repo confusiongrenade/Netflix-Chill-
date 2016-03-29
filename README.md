@@ -21,3 +21,7 @@ UPDATE
 
 I just commited the files for everyone's veiwing pleasure.  
 
+KNOWN BUGS
+==========
+The app will crash when the chill button is pressed, or when a specified setting is pressed that is associated with digital life.  This seems to be because login creditials are hard coded in the program and have since expired
+
